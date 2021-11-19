@@ -1,0 +1,21 @@
+{
+    "name": "vvv/identity_card",
+    "description": "身份证验证",
+    "type": "1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vvv\\IdentityCard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pudongyang",
+            "email": "294963672@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
